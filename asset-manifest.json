@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RedChiliRestaurant/static/css/main.1543cc30.css",
+    "main.js": "/RedChiliRestaurant/static/js/main.cc9bd622.js",
+    "static/js/453.43bfc9bd.chunk.js": "/RedChiliRestaurant/static/js/453.43bfc9bd.chunk.js",
+    "static/media/logo.jpg": "/RedChiliRestaurant/static/media/logo.02ee32587efd2c20c107.jpg",
+    "index.html": "/RedChiliRestaurant/index.html",
+    "main.1543cc30.css.map": "/RedChiliRestaurant/static/css/main.1543cc30.css.map",
+    "main.cc9bd622.js.map": "/RedChiliRestaurant/static/js/main.cc9bd622.js.map",
+    "453.43bfc9bd.chunk.js.map": "/RedChiliRestaurant/static/js/453.43bfc9bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1543cc30.css",
+    "static/js/main.cc9bd622.js"
+  ]
+}
