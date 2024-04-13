@@ -26,7 +26,7 @@ export default function Header() {
         <div id="title">
             <img src={logoImg} alt="A restaurant"></img>
             <h1>
-               Little Lemon Restaurant
+               Red Chili Restaurant
             </h1>
         </div>
         <nav>
